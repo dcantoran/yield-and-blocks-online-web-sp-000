@@ -1,6 +1,6 @@
 def hello_t(element)
   puts element
-  yield(ele)
+  yield(element)
   element
 end
 
