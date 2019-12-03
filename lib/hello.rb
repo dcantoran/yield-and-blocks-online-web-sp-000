@@ -1,6 +1,6 @@
-def hello_t
+def hello_t(arr)
   puts element
-  yield(element)
+  yield(ele)
   element
 end
 
