@@ -1,4 +1,4 @@
-def hello_t(element)
+def hello_t
   puts element
   yield(element)
   element
