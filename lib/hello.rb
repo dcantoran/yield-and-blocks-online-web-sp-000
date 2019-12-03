@@ -1,7 +1,8 @@
 def hello_t(arr)
-  puts element
-  yield(ele)
-  element
+  i = 0
+  while i < arr.length 
+    i += 1 
+  end 
 end
 
 # call your method here!
